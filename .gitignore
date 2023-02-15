@@ -12,3 +12,7 @@ node_modules
 
 # Ignore arquivos de configuração de SASS
 .sass-cache
+*.vsidx
+*.pdb
+*.assets.cache
+/Receive/obj/Debug/net7.0/Receive.GeneratedMSBuildEditorConfig.editorconfig
